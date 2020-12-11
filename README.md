@@ -1,5 +1,5 @@
 # REDHATAssessment
-This is the github page for the TODO list application I developed as part of my red hat internship assessment.
+This is the github page for the TODO list application I developed as part of my red hat internship assessment. I chose to develop the application in C# as I am quite familiar with developing console applications with it.
 
 
 HOW TO USE::
