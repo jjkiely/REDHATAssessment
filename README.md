@@ -14,14 +14,16 @@ The program was designed to be simple to use, it will provide the user with opti
 
 Example use:
 ******
-"dotnet run Todo.cs" /n
-"A" /n
-"Get milk" /n
-"Shopping" /n
-V /n
-S /n
-todayslist /n
-Q /n
+1) "dotnet run Todo.cs"
+2) "A" 
+3) "Get milk" 
+4) "Shopping" 
+5) V 
+6) S 
+7) todayslist 
+8) Q
 ******
-This example use case will run the program, add a new task to get milk, set the task category to shopping, then it will view the current tasks added, before saving them to a file called todayslist and finally quitting the application.
+This example use case will run the program, add a new task to get milk, set the task category to shopping, then it will view the current tasks added, before saving them to a file called todayslist and finally quitting the application. I have included the "todayslist" file in the repository to further demonstrate functionality
 
+OPENING AN EXISTING FILE:
+Pressing O while the program is accepting commands will allow you to open an existing file, however it is essential that you type the name of the file correctly or else it will not work as intended.
