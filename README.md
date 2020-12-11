@@ -14,14 +14,14 @@ The program was designed to be simple to use, it will provide the user with opti
 
 Example use:
 ******
-"dotnet run Todo.cs"
-"A"
-"Get milk"
-"Shopping"
-V
-S
-todayslist
-Q
+"dotnet run Todo.cs" /n
+"A" /n
+"Get milk" /n
+"Shopping" /n
+V /n
+S /n
+todayslist /n
+Q /n
 ******
 This example use case will run the program, add a new task to get milk, set the task category to shopping, then it will view the current tasks added, before saving them to a file called todayslist and finally quitting the application.
 
